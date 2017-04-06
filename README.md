@@ -1,5 +1,3 @@
-<img src="devi.png">
-
 I love the [Deviation](https://www.deviationtx.com/) 
 firmware for the Walkera Devo7E transmitter, but I was frustrated trying to locate the software tools
 and files needed to put the firmware on my transmitters. So I collected these
