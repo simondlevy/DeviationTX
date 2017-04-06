@@ -1,3 +1,5 @@
+<img src="devi.png">
+
 I love the Deviation firmware for the Walkera Devo7E transmitter, but I was frustrated trying to locate the software tools
 and files needed to put the firmware on my transmitters. So I collected these
 tools and files into a single repository, which has everything you need to
@@ -8,7 +10,7 @@ If a little dialog window pops up, you're set.  Otherwise, <a href="https://java
 Java now.  Then follow these directions:
 
 <ol>
-<p><li> Put the Devo transmitter in flash mode by holding down the EXT button while turning on the power.
+<p><li> Put the Devo transmitter in flash mode by holding down the <b>EXT</b</b>> button while turning on the power.
 
 <p><li> Connect the transmitter to you computer with a USB cable.
 
@@ -16,7 +18,7 @@ Java now.  Then follow these directions:
 the <b>devo7e</b> folder in this repository, and select the .dfu file.  Click <b>Send</b> to flash the firmware onto
 your Devo7E transmitter.
 
-<p><li> Once the firmware is flashed, turn the transmitter off, then turn it back on with the ENT button held down.
+<p><li> Once the firmware is flashed, turn the transmitter off, then turn it back on with the <b>ENT</b> button held down.
 You should get a big USB symbol on the LCD display.
 
 What you do next depends on your operating system.  
@@ -25,7 +27,7 @@ What you do next depends on your operating system.
 
 In <b>My Computer</b> or <b>File Explorer</b> you should see an <b>E:</b> drive, or other new drive that
 wasn't there before. Right-click on this drive to format it, using the default format settings.  
-<b> Be sure you've selected the correct drive, so you don't reformat an existing drive an lose all your data</b>
+<b> Be sure you've selected the correct drive, so you don't reformat an existing drive and lose all your data!</b>
 
 <h2>Linux</h2>
 
@@ -52,12 +54,12 @@ A new disk image will appear on your desktop.
 
 <ol>
 <li> Launch the Disk Utility program.  You should see a volume named <b>STM SD Flash Disk</b>.  Click on this volume.
-<b>Warning: if you click on any other volume, you risk erasing the disk on your Mac!</b>.
+<b>Warning: if you click on any other volume, you risk erasing the disk on your Mac!</b>
 <p><li>Click the <b>Erase</b> tab.  In the dialog that pops up, for Format:, choose <b>MS-DOS (FAT)</b>.  
 <p><li>After double-checking that you've selected the correct volume to format, click the <b>Erase</b> button.
 <p>
 </ol>
 
-<p><li>Copy the contents of the <b>devo7e\filesystem</b> folder into the newly-formatted disk volume.
+<p><li>Copy the contents of the <b>devo7e/filesystem</b> folder into the newly-formatted disk volume.
 <p><li> Power-cycle your transmitter, and you should see the Deviation splash screen.
 </ol>
