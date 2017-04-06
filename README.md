@@ -53,5 +53,6 @@ A new disk image will appear on your desktop.
 <p><li> Copy the contents of the folder into this new disk.  
 </ol>
 
+<h2>Finishing up</h2>
 
 Power-cycle your transmitter, and you should see the Deviation splash screen.
