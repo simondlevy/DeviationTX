@@ -18,20 +18,18 @@ your Devo7E transmitter.
 
 <p><li> Once the firmware is flashed, turn the transmitter off, then turn it back on with the ENT button held down.
 You should get a big USB symbol on the LCD display.
-</ol>
 
 What you do next depends on your operating system.  
 
-<h2>Windows</h2>
+<li><h2>Windows</h2>
 
 <ol>
 <li>In <b>My Computer</b> or <b>File Explorer</b> you should see an <b>E:</b> drive, or other new drive that
 wasn't there before. Right-click on this drive to format it, using the default format settings.  
 <b> Be sure you've selected the correct drive, so you don't reformat an existing drive an lose all your data</b>
-<p><li>Copy the contents of the <b>devo7e\filesystem</b> folder into the newly-formatted drive.
 </ol>
 
-<h2>Linux</h2>
+<li> <h2>Linux</h2>
 
 <ol>
 
@@ -50,9 +48,18 @@ could wipe your Linux drives! (you were warned)</b>
 
 A new disk image will appear on your desktop.
 
-<p><li> Copy the contents of the folder into this new disk.  
 </ol>
 
-<h2>Finishing up</h2>
+<h2>Mac OS X</h2>
 
-Power-cycle your transmitter, and you should see the Deviation splash screen.
+<ol>
+<li> Launch the Disk Utility program.  You should see a volume named <b>STM SD Flash Disk</b>.  Click on this volume.
+<b>Warning: if you click on any other volume, you risk erasing the disk on your Mac!</b>.
+<p><li>Click the <b>Erase</b> tab.  In the dialog that pops up, for Format:, choose <b>MS-DOS (FAT)</b>.  
+<p><li>After double-checking that you've selected the correct volume to format, click the <b>Erase</b> button.
+<p>
+</ol>
+
+<p><li>Copy the contents of the <b>devo7e\filesystem</b> folder into the newly-formatted disk volume.
+<p><li> Power-cycle your transmitter, and you should see the Deviation splash screen.
+</ol>
