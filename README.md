@@ -21,7 +21,7 @@ You should get a big USB symbol on the LCD display.
 
 What you do next depends on your operating system.  
 
-<li><h2>Windows</h2>
+<h2>Windows</h2>
 
 <ol>
 <li>In <b>My Computer</b> or <b>File Explorer</b> you should see an <b>E:</b> drive, or other new drive that
