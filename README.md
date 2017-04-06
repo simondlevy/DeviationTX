@@ -31,7 +31,7 @@ Be sure you've selected the correct drive, so you don't reformat an existing dri
 <p><li>Copy the contents of the <b>devo7e\filesystem</b> folder into the newly-formatted drive.
 </ol>
 
-<h2>Linux>
+<h2>Linux</h2>
 
 <ol>
 
