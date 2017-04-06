@@ -18,6 +18,7 @@ your Devo7E transmitter.
 
 <p><li> Once the firmware is flashed, turn the transmitter off, then turn it back on with the ENT button held down.
 You should get a big USB symbol on the LCD display.
+</ol>
 
 What you do next depends on your operating system.  
 
