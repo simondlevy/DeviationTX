@@ -1,6 +1,7 @@
 <img src="devi.png">
 
-I love the Deviation firmware for the Walkera Devo7E transmitter, but I was frustrated trying to locate the software tools
+I love the [Deviation](https://www.deviationtx.com/) 
+firmware for the Walkera Devo7E transmitter, but I was frustrated trying to locate the software tools
 and files needed to put the firmware on my transmitters. So I collected these
 tools and files into a single repository, which has everything you need to
 flash the firmware onto your Devo7E on Windows, Linux, or Mac OS X.
@@ -10,7 +11,7 @@ If a little dialog window pops up, you're set.  Otherwise, <a href="https://java
 Java now.  Then follow these directions:
 
 <ol>
-<p><li> Put the Devo transmitter in flash mode by holding down the <b>EXT</b</b>> button while turning on the power.
+<p><li> Put the Devo transmitter in flash mode by holding down the <b>EXT</b> button while turning on the power.
 
 <p><li> Connect the transmitter to you computer with a USB cable.
 
