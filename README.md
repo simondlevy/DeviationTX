@@ -1,4 +1,4 @@
-I love the Deviation firmware for Walkera Devo7E transmitter, but I was frustrated trying to locate the software tools
+I love the Deviation firmware for the Walkera Devo7E transmitter, but I was frustrated trying to locate the software tools
 and files needed to put the firmware on my transmitters. So I collected these
 tools and files into a single repository, which has everything you need to
 flash the firmware onto your Devo7E on Windows, Linux, or Mac OS X.
