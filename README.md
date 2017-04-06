@@ -1,7 +1,7 @@
 I love the Deviation firmware for Walkera Devo7E transmitter, but I was frustrated trying to locate the software tools
 and files needed to put the firmware on my transmitters. So I collected these
 tools and files into a single repository, which has everything you need to
-flash the firmware onto your Devo7E on Windows and Linux.
+flash the firmware onto your Devo7E on Windows, Linux, or Mac OS X.
 
 First, you'll need Java on your computer. To see whether it's there, double-click on <b>DeviationUpload-0.8.0.jar</b>.
 If a little dialog window pops up, you're set.  Otherwise, <a href="https://java.com/en/">download</a> and install 
@@ -29,7 +29,7 @@ wasn't there before. Right-click on this drive to format it, using the default f
 <b> Be sure you've selected the correct drive, so you don't reformat an existing drive an lose all your data</b>
 </ol>
 
-<li> <h2>Linux</h2>
+<h2>Linux</h2>
 
 <ol>
 
