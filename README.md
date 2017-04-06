@@ -26,8 +26,8 @@ What you do next depends on your operating system.
 
 <ol>
 <li>In <b>My Computer</b> or <b>File Explorer</b> you should see an <b>E:</b> drive, or other new drive that
-wasn't there before. Right-click on this drive to format it, using the default format settings.  <b><font color=red>
-Be sure you've selected the correct drive, so you don't reformat an existing drive an lose all your data!</font></b>
+wasn't there before. Right-click on this drive to format it, using the default format settings.  
+<b> Be sure you've selected the correct drive, so you don't reformat an existing drive an lose all your data</b>
 <p><li>Copy the contents of the <b>devo7e\filesystem</b> folder into the newly-formatted drive.
 </ol>
 
