@@ -39,7 +39,10 @@ wasn't there before. Right-click on this drive to format it, using the default f
 
   fdisk /dev/sdb
 
-Select 'n' to create a new partition. Select 'Primary' type, and the default start and end cylinders. Enter 'w' to write the new partition and exit fdisk. Be careful!!! If you accidentally use fdisk on some other disk device you could wipe your Linux drives! (you were warned)
+Select 'n' to create a new partition. Select 'Primary' type, and the default
+start and end cylinders. Enter 'w' to write the new partition and exit fdisk.
+<b>Be careful!!! If you accidentally use fdisk on some other disk device you
+could wipe your Linux drives! (you were warned)</b>
 
 <p><li> Enter the command 
 
